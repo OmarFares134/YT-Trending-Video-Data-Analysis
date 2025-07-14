@@ -14,12 +14,12 @@ This project analyzes **YouTube trending video data across multiple countries** 
 - Do videos with disabled comments perform worse?
 
 ## Dataset
-[Dataset Link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 The dataset consists of `.csv` files containing trending video data from various countries. Each file includes:
 - Video metadata (title, channel, description)
 - Metrics (views, likes, comments)
 - Timestamps (publish_time, trending_date)
 - Flags for comment/rating disabling
+[Dataset Link](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 ## Tools & Technologies
 - Python
